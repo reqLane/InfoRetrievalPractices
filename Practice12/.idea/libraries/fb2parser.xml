@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fb2parser">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jars/fb2parser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
